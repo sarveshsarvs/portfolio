@@ -3,7 +3,8 @@
 This is the personal portfolio website of **Sarvesh**, an aspiring Full Stack and Machine Learning Engineer. The site is built using clean HTML5, CSS3, and minimal JavaScript to ensure fast load times and a responsive layout.
 
 ## 🌐 Live Website
-[https://your-username.github.io/sarvesh-portfolio](https://your-username.github.io/sarvesh-portfolio)
+https://sarveshsarvs.github.io/portfolio/
+
 
 ## 🔥 Features
 - Red & black aesthetic theme
